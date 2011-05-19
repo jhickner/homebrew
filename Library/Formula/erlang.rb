@@ -1,22 +1,22 @@
 require 'formula'
 
 class ErlangManuals < Formula
-  url 'http://erlang.org/download/otp_doc_man_R14B02.tar.gz'
+  url 'http://www.erlang.org/download/otp_doc_man_R14B02.tar.gz'
   md5 'fc1c925e1195b6f851b1984da9ca0f6f'
 end
 
 class ErlangHtmls < Formula
-  url 'http://erlang.org/download/otp_doc_html_R14B02.tar.gz'
+  url 'http://www.erlang.org/download/otp_doc_html_R14B02.tar.gz'
   md5 'e1b609c699a2d8fdbbe242a2e3b7efcd'
 end
 
 class ErlangHeadManuals < Formula
-  url 'http://erlang.org/download/otp_doc_man_R14B02.tar.gz'
+  url 'http://www.erlang.org/download/otp_doc_man_R14B02.tar.gz'
   md5 'fc1c925e1195b6f851b1984da9ca0f6f'
 end
 
 class ErlangHeadHtmls < Formula
-  url 'http://erlang.org/download/otp_doc_html_R14B02.tar.gz'
+  url 'http://www.erlang.org/download/otp_doc_html_R14B02.tar.gz'
   md5 'e1b609c699a2d8fdbbe242a2e3b7efcd'
 end
 
